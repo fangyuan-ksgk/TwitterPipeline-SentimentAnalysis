@@ -6,3 +6,6 @@
 4. Preprocessed on unstructured twitter text data, cleaned out HTML tags, URLs, Emojis, punctuations, stopwords, and lemmatize the text to be ready for analysis.
 5. Used TextBlob API and NLTK API for sentiment analysis.
 6. Conducted Sentiment Analysis on COVID vaccines over the past 5 days. (Easily scalable to longer time-period) 
+
+![image](https://user-images.githubusercontent.com/66006349/143445356-0c7b9886-cf94-4946-b581-6e3f807d4b71.png)
+
